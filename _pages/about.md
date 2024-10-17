@@ -1,8 +1,8 @@
 ---
 layout: about
-title: Shourya Sen
+title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Department of Politics, Princeton University
 
 profile:
   align: right
