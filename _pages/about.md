@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Department of Politics, Princeton University
+subtitle: Department of Politics, Princeton University
 
 profile:
   align: right
