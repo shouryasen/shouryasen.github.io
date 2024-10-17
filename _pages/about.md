@@ -18,4 +18,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Phd candidate in the Department of Politics at Princeton University studying comparative politics and political economy.
+I am a Phd candidate in the Department of Politics at Princeton University studying comparative politics and political economy. This website is currently under construction.
