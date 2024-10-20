@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /working papers/
+permalink: /working_papers/
 title: working papers
 description: Work in progress.
 nav: true
