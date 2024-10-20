@@ -7,9 +7,13 @@ nav: true
 nav_order: 3
 ---
 
-My dissertation launches two different broader research agendas. The first focuses on the effects of mobilization in revolutionary conflicts for long-run post-revolutionary inequalities, networks, and identities. I theorize and test for "bottom-up" processes of state formation rooted in mobilization. I also focus on the family as an important conduit for intergenerational transfers of benefits and networks centered on the nation-state.  
+My dissertation launches two different broader research agendas. 
 
-[The pull of the center: inequality and autocratic nation building as legacies of revolution in upland Laos](/assets/pdf/TPOC_final.pdf)
+**1. Long-run impacts of revolutionary mobilization**
+
+The first focuses on the effects of mobilization in revolutionary conflicts for long-run post-revolutionary inequalities, networks, and identities. I theorize and test for "bottom-up" processes of state formation rooted in mobilization. I also focus on the family as an important conduit for intergenerational transfers of benefits and networks centered on the nation-state.  
+
+[**The pull of the center: inequality and autocratic nation building as legacies of revolution in upland Laos**](/assets/pdf/TPOC_final.pdf)
 
 **Abstract:**
 
@@ -18,9 +22,11 @@ My dissertation launches two different broader research agendas. The first focus
 
 Two possible future lines of research emerge: first, how do such processes impact political order and regime stability? Comparative work on this question involving the countries of mainland Southeast Asia is a promising path forward. Second, how common have such bottom-up processes of state formation been in other revolutionary contexts? Could they help explain rapid expansions of state power following revolutions?
 
+**2. Authoritarian coalitions, dynamic incentives, and institutions**
+
 A second research agenda involves the formal modeling and empirical study of dynamic incentives in authoritarian coalitions. In another paper from my dissertation, I argue that institutional change during the third wave of democratization can be more parsimoniously understood by accounting for the impact of economic shocks on authoritarian coalitions. This studies authoritarian institutions in the historical context of the 1970s and 1980s, when they steadily emerged across the world, in a range of country contexts.
 
-Sovereign debt, democratization, and authoritarian institutions in the third wave (draft available on request)
+**Sovereign debt, democratization, and authoritarian institutions in the third wave** (draft available on request)
 
 **Abstract**
 
