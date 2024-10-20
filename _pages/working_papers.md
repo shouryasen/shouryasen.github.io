@@ -24,7 +24,7 @@ Two possible future lines of research emerge: first, how do such processes impac
 
 **2. Authoritarian coalitions, dynamic incentives, and institutions**
 
-A second research agenda involves the formal modeling and empirical study of dynamic incentives in authoritarian coalitions. In another paper from my dissertation, I argue that institutional change during the third wave of democratization can be more parsimoniously understood by accounting for the impact of economic shocks on authoritarian coalitions. This studies authoritarian institutions in the historical context of the 1970s and 1980s, when they steadily emerged across the world, in a range of country contexts.
+A second research agenda involves the formal modeling and empirical study of dynamic incentives in authoritarian coalitions. In another paper from my dissertation, I argue that institutional change during the third wave of democratization can be more parsimoniously understood by accounting for the impact of economic shocks on authoritarian coalitions. I study authoritarian institutions in the historical context of the 1970s and 1980s, when they steadily emerged across the world, in a range of country contexts.
 
 **Sovereign debt, democratization, and authoritarian institutions in the third wave** (draft available on request)
 
