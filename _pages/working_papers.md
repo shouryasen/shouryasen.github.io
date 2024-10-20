@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-My dissertation launches two different broader research agendas. The first focuses on the effects of mobilization in revolutionary conflicts for long-run post-revolutionary inequalities, networks, and identities. I theorize and test for "bottom-up" processes of state formation rooted in mobilization and within-family intergenerational transfers of benefits and networks. 
+My dissertation launches two different broader research agendas. The first focuses on the effects of mobilization in revolutionary conflicts for long-run post-revolutionary inequalities, networks, and identities. I theorize and test for "bottom-up" processes of state formation rooted in mobilization. I also focus on the family as an important conduit for intergenerational transfers of benefits and networks centered on the nation-state. 
 
 [The Pull of the Center: Inequality and Autocratic Nation Building as Legacies of Revolution in Upland Laos](/assets/pdf/TPOC_final.pdf)
 
