@@ -18,4 +18,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Phd candidate in the Department of Politics at Princeton University studying comparative politics and political economy. This website is currently under construction.
+I conduct research on comparative politics and political economy. My current research studies coalition building, cooptation, and societal change in autocracies. More generally, I study the long-run determinants of inequality and growth in developing countries. I have an area expertise in Southeast Asia and have conducted fieldwork in Laos, Thailand, and Vietnam. My fieldwork and data collection in Laos advances knowledge on peripheral communities in the borderlands of the country about whom little is known in any academic field. I have also written on India and Sub-Saharan Africa. 
