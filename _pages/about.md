@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>Phd Candidate</b>, [Department of Politics](https://politics.princeton.edu/), Princeton University
+subtitle: <b>Phd Candidate</b>, Department of Politics, Princeton University
 
 profile:
   align: right
