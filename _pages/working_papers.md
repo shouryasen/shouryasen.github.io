@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-My dissertation launches two different broader research agendas. 
+My dissertation speaks to two different broader research agendas. 
 
 **1. Long-run impacts of revolutionary mobilization**
 
