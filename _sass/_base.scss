@@ -17,7 +17,13 @@ li,
 span,
 strong {
   color: var(--global-text-color);
-  font-family: 'Helvetica Neue';
+  font-family: 
+.bodoni-moda-<uniquifier> {
+  font-family: "Bodoni Moda", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+};
 }
 
 hr {
