@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>Phd Candidate</b>, <b>Harold W. Dodds Honorific Fellow</b> </br>
+subtitle: <b>Phd Candidate</b>, <b>Harold W. Dodds Honorific Fellow</b>, </br>
 Department of Politics, Princeton University
 
 profile:
