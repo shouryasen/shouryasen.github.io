@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I conduct research on comparative politics and political economy. I study how authoritarian regimes manage social change and build durable ties to their societies. My [ongoing research](https://shouryasen.github.io/working_papers/) studies this question at both micro and macro levels. More generally, I have diverse and interdisciplinary interests broadly centered on studying the long-run determinants of inequality, growth, and political order in developing countries. 
+I conduct research on comparative politics and political economy. I study how authoritarian regimes manage social change and build durable ties to their societies. My [ongoing research](https://shouryasen.github.io/working_papers/) studies this question at both micro and macro levels. 
 
 I have an area expertise in Southeast Asia and have conducted fieldwork in Laos, Thailand, and Vietnam. My fieldwork and data collection in Laos advances knowledge on communities in the borderlands of the country about whom little is known in any academic field. I have also written on colonialism in India and the history and political economy of education in Sub-Saharan Africa: my published work follows my core agenda of studying social change and cooptation in autocracies. 
 
