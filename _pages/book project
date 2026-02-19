@@ -1,10 +1,10 @@
-markdown
+
 
 ---
 layout: page
-title: book project
-permalink: /book/
-description: Book project in preparation.
+permalink: /book_project/
+title: book project 
+description: The politics of mobilization.
 nav: true
 nav_order: 4
 ---
