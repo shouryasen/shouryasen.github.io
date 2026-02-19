@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /book_project/
+permalink: /book/
 title: book project 
 description: The politics of mobilization.
 nav: true
