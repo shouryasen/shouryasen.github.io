@@ -21,7 +21,7 @@ The first focuses on the effects of mobilization in revolutionary conflicts for 
 > ###### I study how marginalized people have become integrated into networks centered on the state through revolutionary mobilization. Using a unique genealogical dataset from Laos, I test for the intergenerational, biographical effects of wartime mobilization into a revolutionary political party. In Laos, revolutionary mobilization in the 1960s pulled in individuals from peripheries into political organizations. Results show that descendants of such people were then over twice as likely to work for the party-state than people from similar, unmobilized families. Descendants were over five times as likely to have a cross-ethnic marriage and more than eight times as likely to attain a college diploma, among other social shifts. Mobilization conferred abilities and created opportunities for social advancement, leading to self-sustaining political and economic benefits, which have been transmitted within reconstituted families. The nature of revolutionary mobilization itself is an important, neglected, factor in post-revolutionary social transformation and class formation in revolutionary autocracies.
 >
 
-The long-run postwar integration of the losing side: networks, human capital, and narratives
+The long-run postwar integration of the losing side: networks, human capital, and narratives (in preparation)
 
 **Abstract:**
 
@@ -33,7 +33,7 @@ The long-run postwar integration of the losing side: networks, human capital, an
 
 A macro view into the same processes involves the formal modeling and empirical study of dynamic incentives in authoritarian coalitions. In another paper from my dissertation, I argue that institutional change during the third wave of democratization can be more parsimoniously understood by accounting for the impact of economic shocks on authoritarian coalitions. I study authoritarian institutions in the historical context of the 1970s and 1980s, when they steadily emerged across the world in a range of country contexts.
 
-**Sovereign debt, democratization, and authoritarian institutions in the third wave** (draft available on request)
+**Sovereign debt, democratization, and authoritarian institutions in the third wave** (in preparation)
 
 **Abstract**
 
