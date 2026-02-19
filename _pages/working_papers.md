@@ -7,7 +7,8 @@ nav: true
 nav_order: 3
 ---
 
-My dissertation speaks to two different broader research agendas. 
+I study social change and cooptation in autocracies at both micro and macro levels. At the micro level, I study authoritarian state-society relations. At the macro level, I study authoritarian institutionalization. All of my work is historically oriented, speaking to how historical factors shape contemporary outcomes and possibilities.
+
 
 **1. Long-run impacts of revolutionary mobilization**
 
@@ -18,6 +19,13 @@ The first focuses on the effects of mobilization in revolutionary conflicts for 
 **Abstract:**
 
 > ###### I study how marginalized people have become integrated into networks centered on the state through revolutionary mobilization. Using a unique genealogical dataset from Laos, I test for the intergenerational, biographical effects of wartime mobilization into a revolutionary political party. In Laos, revolutionary mobilization in the 1960s pulled in individuals from peripheries into political organizations. Results show that descendants of such people were then over twice as likely to work for the party-state than people from similar, unmobilized families. Descendants were over five times as likely to have a cross-ethnic marriage and more than eight times as likely to attain a college diploma, among other social shifts. Mobilization conferred abilities and created opportunities for social advancement, leading to self-sustaining political and economic benefits, which have been transmitted within reconstituted families. The nature of revolutionary mobilization itself is an important, neglected, factor in post-revolutionary social transformation and class formation in revolutionary autocracies.
+>
+
+The long-run postwar integration of the losing side: Networks, human capital, and narratives
+
+**Abstract:**
+
+> ###### Choosing the wrong side in a civil war has dire consequences, but many who survive punishment return home to be ruled by their once enemies. What determines whether such returnees and their descendants are able to integrate into the post-war polity in the long-run? Using a unique dataset from communities in Laos that were divided by war in the 1960s,  I theorize and test three novel mechanisms: networks, human capital needs, and narratives. I find that kinship connections to the winning side remove punishment effects intergenerationally: children of mixed families attained skilled jobs and higher education at rates significantly higher than even those from purely winning families. The availability of exculpatory narratives and the allocation of human capital are important mechanisms in this integration. This illustrates how dynamics internal to conflict shape the possibilities of post-war integration over the long run, even in a context with no official reconciliation policy.
 >
 
 
