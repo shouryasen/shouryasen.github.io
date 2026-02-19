@@ -1,5 +1,3 @@
-
-
 ---
 layout: page
 permalink: /book_project/
