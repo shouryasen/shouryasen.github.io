@@ -21,7 +21,7 @@ The first focuses on the effects of mobilization in revolutionary conflicts for 
 > ###### I study how marginalized people have become integrated into networks centered on the state through revolutionary mobilization. Using a unique genealogical dataset from Laos, I test for the intergenerational, biographical effects of wartime mobilization into a revolutionary political party. In Laos, revolutionary mobilization in the 1960s pulled in individuals from peripheries into political organizations. Results show that descendants of such people were then over twice as likely to work for the party-state than people from similar, unmobilized families. Descendants were over five times as likely to have a cross-ethnic marriage and more than eight times as likely to attain a college diploma, among other social shifts. Mobilization conferred abilities and created opportunities for social advancement, leading to self-sustaining political and economic benefits, which have been transmitted within reconstituted families. The nature of revolutionary mobilization itself is an important, neglected, factor in post-revolutionary social transformation and class formation in revolutionary autocracies.
 >
 
-The long-run postwar integration of the losing side: networks, human capital, and narratives (in preparation)
+**The long-run postwar integration of the losing side: networks, human capital, and narratives** (in preparation)
 
 **Abstract:**
 
