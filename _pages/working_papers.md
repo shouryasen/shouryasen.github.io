@@ -37,6 +37,7 @@ This agenda extends the mobilization framework to Thailand, where the Communist 
 
 **Who stays in opposition?** (with Somchai Phatharathananunth, data collection)
 
+<br>
 
 **3. Authoritarian coalitions, dynamic incentives, and institutions**
 
