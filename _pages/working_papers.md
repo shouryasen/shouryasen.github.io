@@ -29,7 +29,16 @@ The first focuses on the effects of mobilization in revolutionary conflicts for 
 >
 
 
-**2. Authoritarian coalitions, dynamic incentives, and institutions**
+**2. Revolutionary mobilization: legacies in defeat**
+
+This agenda extends the mobilization framework to Thailand, where the Communist Party of Thailand (CPT) waged a rural insurgency from the 1960s through the 1980s before being defeated. Using original survey and oral history data collected through community partnerships in Isan, northeastern Thailand, I study the long-run consequences of revolutionary participation in a context of defeat rather than victory, illuminating how mobilization shapes life trajectories, and paths of political development, regardless of revolutionary outcome. I replicate the data collection effort in Laos, directly tracing how the different revolutionary trajectories mattered.
+
+**The long-run effects of revolutionary mobilization: evidence from the CPT** (data collection)
+
+**Who stays in opposition?** (with Somchai Phatharathananunth, data collection)
+
+
+**3. Authoritarian coalitions, dynamic incentives, and institutions**
 
 A macro view into the same processes involves the formal modeling and empirical study of dynamic incentives in authoritarian coalitions. In another paper from my dissertation, I argue that institutional change during the third wave of democratization can be more parsimoniously understood by accounting for the impact of economic shocks on authoritarian coalitions. I study authoritarian institutions in the historical context of the 1970s and 1980s, when they steadily emerged across the world in a range of country contexts.
 
