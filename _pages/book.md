@@ -2,7 +2,6 @@
 layout: page
 permalink: /book/
 title: book project 
-description: The politics of mobilization.
 nav: true
 nav_order: 4
 ---
