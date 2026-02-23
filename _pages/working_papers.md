@@ -7,12 +7,12 @@ nav: true
 nav_order: 3
 ---
 
-I study social change and cooptation in autocracies at both micro and macro levels. At the micro level, I study authoritarian state-society relations. At the macro level, I study authoritarian institutionalization. My work is historically oriented, speaking to how historical factors shape contemporary outcomes and possibilities.
+I study social change and cooptation in autocracies at both micro and macro levels. At the micro level, I study authoritarian state-society relations. At the macro level, I study authoritarian institutionalization. My work is historically oriented, and is concerned with uncovering the processes through which historical factors shape contemporary outcomes and possibilities.
 
 
 **1. Long-run impacts of revolutionary mobilization**
 
-This line of work focuses on the effects of mobilization in revolutionary conflicts for long-run post-revolutionary inequalities, networks, and identities. I theorize and test for "bottom-up" state-society interactions rooted in mobilization. I also focus on the family as an important conduit for intergenerational transfers of benefits and networks centered on the nation-state.  
+This line of work focuses on the effects of mobilization in revolutionary conflicts for long-run post-revolutionary inequalities, networks, and identities. I theorize and test for "bottom-up" state-society interactions rooted in revolutionary mobilization. I also focus on the family as an important conduit for intergenerational transfers of benefits and networks centered on the nation-state.  
 
 [The pull of the center: the mobilizational roots of transformation in social revolution](/assets/pdf/Sen_writing_sample_1125.pdf) _Under review._
 
@@ -29,7 +29,7 @@ This line of work focuses on the effects of mobilization in revolutionary confli
 >
 
 
-**2. Revolutionary mobilization: legacies in defeat**
+**1.1 Revolutionary mobilization: legacies in defeat**
 
 This agenda extends the mobilization framework to Thailand, where the Communist Party of Thailand (CPT) waged a rural insurgency from the 1960s through the 1980s before being defeated. Using original survey and oral history data collected through community partnerships in Isan, northeastern Thailand, I study the long-run consequences of revolutionary participation in a context of defeat rather than victory, illuminating how mobilization shapes life trajectories, and paths of political development, regardless of revolutionary outcome. I replicate the data collection effort in Laos, directly tracing how the different revolutionary trajectories mattered.
 
@@ -39,7 +39,7 @@ This agenda extends the mobilization framework to Thailand, where the Communist 
 
 <br>
 
-**3. Authoritarian coalitions, dynamic incentives, and institutions**
+**2. Authoritarian coalitions, dynamic incentives, and institutions**
 
 This line of research progresses at a macro, global level. I argue that institutional change during the third wave of democratization can be more parsimoniously understood by accounting for the impact of economic shocks on authoritarian coalitions. I study authoritarian institutions in the historical context of the 1970s and 1980s, when they steadily emerged across the world in a range of country contexts.
 
