@@ -39,7 +39,7 @@ This agenda extends the mobilization framework to Thailand, where the Communist 
 
 <br>
 
-**2. Authoritarian coalitions, dynamic incentives, and institutions**
+**2. A historical perspective on authoritarian institutionalization**
 
 This line of research progresses at a macro, global level. I argue that institutional change during the third wave of democratization can be more parsimoniously understood by accounting for the impact of economic shocks on authoritarian coalitions. I study authoritarian institutions in the historical context of the 1970s and 1980s, when they steadily emerged across the world in a range of country contexts.
 
