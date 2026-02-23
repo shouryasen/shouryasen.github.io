@@ -18,8 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-<div style="overflow: hidden;">
-  
+
 I conduct research on comparative politics and political economy, studying how authoritarian regimes manage social change and build durable ties to their societies. My [ongoing research](https://shouryasen.github.io/working_papers/) is historically oriented and analyzes this question at both micro and macro levels. 
 
 I am a scholar of Southeast Asia and have conducted fieldwork in Laos, Thailand, and Vietnam. My work in Laos and Thailand is based on original surveys, genealogies, and oral histories, collected through community-level partnerships. My fieldwork and data collection in Laos advances knowledge on communities in the borderlands of the country about whom little is known in any academic field. 
@@ -29,4 +28,3 @@ I have also written on colonialism in India and the history and political econom
 I am advised by [Carles Boix](https://www.princeton.edu/~cboix/), [Leonard Wantchekon](https://lwantche.scholar.princeton.edu/), [Rory Truex](https://www.rorytruex.com/), and [Germán Gieczewski](https://germang.scholar.princeton.edu/). 
 I am on the 2025-2026 job market.
 
-</div>
