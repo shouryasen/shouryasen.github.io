@@ -7,12 +7,12 @@ nav: true
 nav_order: 3
 ---
 
-I study social change and cooptation in autocracies at both micro and macro levels. At the micro level, I study the development of state-society relations in the context of rural revolutionary movements. At the macro level, I study authoritarian institutionalization. My work is historically oriented, and is concerned with uncovering the processes through which historical factors shape contemporary outcomes and possibilities.
+I study social change and cooptation in autocracies at both micro and macro levels. At the micro level, I study the historical development of state-society relations in the context of rural revolutionary movements. At the macro level, I study the global history of authoritarian institutionalization. 
 
 
 **1. Long-run impacts of revolutionary mobilization**
 
-This line of work focuses on the effects of mobilization in revolutionary conflicts for long-run post-revolutionary inequalities, networks, and identities. I theorize and test for "bottom-up" state-society interactions rooted in revolutionary mobilization. I also focus on the family as an important conduit for intergenerational transfers of benefits and networks centered on the nation-state.  
+This line of work focuses on the effects of mobilization in revolutionary conflicts for long-run post-revolutionary inequalities, networks, and identities. I theorize and test for "bottom-up" state-society interactions rooted in revolutionary mobilization. I also focus on the family as an important conduit for intergenerational transfers of benefits and networks centered on the nation-state. This relies on a unique intergenerational and genealogical dataset collected from heavily mobilized communities in upland Laos. The data collection effort involved local communities and brought to bear local historical knowledge.
 
 [The pull of the center: the mobilizational roots of transformation in social revolution](/assets/pdf/Sen_writing_sample_1125.pdf) _Under review._
 
