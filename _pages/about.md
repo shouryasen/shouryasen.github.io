@@ -26,3 +26,5 @@ I have also written on colonialism in India and the history and political econom
 
 I am advised by [Carles Boix](https://www.princeton.edu/~cboix/), [Leonard Wantchekon](https://lwantche.scholar.princeton.edu/), [Rory Truex](https://www.rorytruex.com/), and [Germán Gieczewski](https://germang.scholar.princeton.edu/). 
 I am on the 2025-2026 job market.
+
+---
