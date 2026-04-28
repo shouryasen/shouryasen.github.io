@@ -14,7 +14,7 @@ I study social change and cooptation in autocracies at both micro and macro leve
 
 This line of work focuses on the effects of mobilization in revolutionary conflicts for long-run post-revolutionary stratification not only in access to positions of power but also in capacities (human capital) and connections (social networks). I theorize and test for "bottom-up" state-society interactions rooted in revolutionary mobilization. I also focus on the family as an important conduit for intergenerational transfers of benefits and networks centered on the nation-state. This relies on a unique intergenerational and genealogical dataset collected from heavily mobilized communities in upland Laos. The data collection effort involved local communities and brought to bear local historical knowledge.
 
-[The pull of the center: the mobilizational roots of transformation in social revolution](/assets/pdf/Sen_writing_sample_1125.pdf) _Under review._
+[The pull of the center: the mobilizational roots of transformation in social revolution](/assets/pdf/Sen_writing_sample_1125.pdf) _Revise & Resubmit at World Politics._
 
 **Abstract:**
 
