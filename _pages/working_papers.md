@@ -52,7 +52,7 @@ This line of research progresses at a macro, global level. I argue that institut
 
 <br>
 
-**3. The Local Correlates of Democratic Transition**
+**3. The local correlates of democratic transition**
 
 In another developing research agenda on the local politics of authoritarian coalitions, with Napon Jatusripitak, I study how personalistic voting in Thailand responds to structural as well as short-run political factors. We theorize and apply a novel measure of personalism with national-level coverage across constituencies, leveraging ballot design and the random assignment of candidate and party numbers in Thai elections. Results show that even isolated victories for programmatic parties, by weakening local brokerage networks, can weaken the local foundations of electoral autocracies.
 
