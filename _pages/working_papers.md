@@ -49,3 +49,15 @@ This line of research progresses at a macro, global level. I argue that institut
 
 > ###### I offer a reevaluation of the history of authoritarian institutionalization, which centers the global economic shocks of the 1970s rather than the end of the Cold War. I find that institutionalization occurred after debt buildups. Debt buildups, in turn, happened as developing countries used favorable commodity shocks to jump-start attempts at economic growth and transformation. In addition to cooptation and credible commitments, I argue that institutionalization helped solve principal-agent problems in the process of debt-fueled growth by allowing for limited areas of political and economic competition; functions related to cooptation and credible commitments also widened the scope of politically feasible competition. I also find that debt flows to institutionalized regimes were less sensitive to subsequent negative economic shocks than flows to uninstitutionalized regimes, suggesting that lenders responded favorably to institutionalization.
 >
+
+
+**3. The Local Correlates of Democratic Transition**
+
+In another developing research agenda on the local politics of authoritarian coalitions, with Napon Jatusripitak, I study how personalistic voting in Thailand responds to structural as well as short-run political factors. We theorize and apply a novel measure of personalism with national-level coverage across constituencies, leveraging ballot design and the random assignment of candidate and party numbers in Thai elections. Results show that even isolated victories for programmatic parties, by weakening local brokerage networks, can weaken the local foundations of electoral autocracies.
+
+**The democratic externalities of programmatic electoral victory: evidence from Thailand** (with Napon Jatusripitak in preparation)
+>###### Can programmatic political parties reshape personalistic electoral systems? Exploiting random assignment of ballot numbers in Thai elections, we construct a measure of personalistic voting covering all constituencies, allowing us to systematically answer this question through a unique national-level panel study of the determinants of personalistic voting. Against predominant structuralist accounts, we find that programmatic parties weaken personalism in the short-run simply by coming to power locally, even in an electoral autocracy where they are prevented from forming a government. A range of empirical strategies, including a regression discontinuity design, show that constituencies where the liberal Move Forward Party came to power in 2023 saw significantly less personalistic voting in 2026. Evidence from interviews conducted in closely contested constituencies suggests that this was due to the weakening of underlying brokerage networks under programmatic incumbents. Even when victory is partial, programmatic parties can weaken the local, clientelistic, foundations of electoral autocracies.
+>
+
+
+
