@@ -50,6 +50,7 @@ This line of research progresses at a macro, global level. I argue that institut
 > ###### I offer a reevaluation of the history of authoritarian institutionalization, which centers the global economic shocks of the 1970s rather than the end of the Cold War. I find that institutionalization occurred after debt buildups. Debt buildups, in turn, happened as developing countries used favorable commodity shocks to jump-start attempts at economic growth and transformation. In addition to cooptation and credible commitments, I argue that institutionalization helped solve principal-agent problems in the process of debt-fueled growth by allowing for limited areas of political and economic competition; functions related to cooptation and credible commitments also widened the scope of politically feasible competition. I also find that debt flows to institutionalized regimes were less sensitive to subsequent negative economic shocks than flows to uninstitutionalized regimes, suggesting that lenders responded favorably to institutionalization.
 >
 
+<br>
 
 **3. The Local Correlates of Democratic Transition**
 
