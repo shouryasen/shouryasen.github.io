@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-I study social change and cooptation in autocracies at both micro and macro levels. At the micro level, I study the historical development of state-society relations in the context of rural revolutionary movements. At the macro level, I study the global history of authoritarian institutionalization. 
+I study social change and cooptation in autocracies at both micro and macro levels. This leads to three ongoing research agendas.
 
 
 **1. Long-run impacts of revolutionary mobilization**
