@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>Phd Candidate</b>, <b>Harold W. Dodds Honorific Fellow</b>, </br> Department of Politics, Princeton University
+subtitle: <b>Phd Candidate</b>, </br> Department of Politics, Princeton University
 
 profile:
   align: right
@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 I conduct research on comparative politics and political economy, studying how authoritarian regimes manage social change and build durable ties to their societies. My [ongoing research](https://shouryasen.github.io/working_papers/) is historically oriented and analyzes this question at both micro and macro levels, focusing particularly on the legacies of conflict and the political foundations of inequality. 
 
-I am a scholar of Southeast Asia and have conducted fieldwork in Laos, Thailand, and Vietnam. My work in Laos and Thailand is based on original surveys, genealogies, and oral histories, collected through community-level partnerships. My fieldwork and data collection in Laos advances knowledge on communities in the borderlands of the country about whom little is known in any academic field. 
+I am a scholar of Southeast Asia and the developing world more broadly. I have conducted extensive fieldwork in Laos, Thailand, and Vietnam. My work in Laos and Thailand is based on original surveys, genealogies, and oral histories, collected through community-level partnerships. My fieldwork and data collection in Laos advances knowledge on communities in the borderlands of the country about whom little is known in any academic field. 
 
 I have also written on colonialism in India and the history and political economy of education in Sub-Saharan Africa, extending my core agenda of studying social change and cooptation to diverse authoritarian contexts in the developing world. 
 
