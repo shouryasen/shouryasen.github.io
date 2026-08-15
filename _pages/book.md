@@ -10,6 +10,7 @@ nav_order: 4
 
 *Book project, in progress*
 
+[Read the introduction.](/assets/pdf/intro.pdf) 
 
 What did the rural revolutionary conflicts of the twentieth century do to the societies they swept through? This book argues that revolutionary mobilization---the wartime recruitment of ordinary people into revolutionary political organizations---was a fundamental and overlooked source of durable social change after revolutionary conflicts. In cases where revolutionaries took power, mobilization was at the heart of the "communist route to modernity," pulling rural people unevenly into new organizations, networks, and identities that transformed their relationship to the state. This altered principal-agent relationships that had vexed colonial and pre-modern states. We see traces of these effects even where revolutionaries were defeated. Mobilization _was_ modernization.
 
@@ -17,4 +18,4 @@ Even as urbanization progresses across the developing world, rural areas remain 
 
 The book develops this argument through a paired comparison of revolutionary victory and defeat: Laos, where the communist Pathet Lao prevailed, and Thailand, where the Communist Party of Thailand was defeated. By examining both winners and losers, and both successful and failed revolutions, the book conceptualizes mobilization in rural revolutionary conflicts as a transformative force in its own right, which shaped politics in two different institutional settings. The theoretical framework then provides traction on a wide range of global cases. 
 
-[Read the introduction](/assets/pdf/intro.pdf) 
+
