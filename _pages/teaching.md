@@ -9,7 +9,7 @@ nav_order: 6
 
 **Teaching philosophy**
 
-My love for teaching was a primary motivation in pursuing a Ph.D. My teaching is grounded in two pillars: students learn best by practically applying concepts and methods in diverse ways, and students arrive with varying needs and interests that should be engaged as fully as possible. In practice, I plan lessons so that students engage with material differently from week to week––through class discussions, gallery walks, group and individual work, and student-led presentations––and I devote significant time to knowing students individually, including through generous office hours.
+My love for teaching was a primary motivation in pursuing a Ph.D. My teaching philosophy is grounded in two pillars: students learn best by practically applying concepts and methods in diverse ways, and students arrive with varying needs and interests that should be engaged as fully as possible. In practice, I plan lessons so that students engage with material differently from week to week––through class discussions, gallery walks, group and individual work, and student-led presentations––and I devote significant time to knowing students individually, including through generous office hours.
 
 **Teaching, Princeton University**
 
