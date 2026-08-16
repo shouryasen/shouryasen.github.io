@@ -6,7 +6,7 @@ subtitle: <b>Phd Candidate</b>, </br> Department of Politics, Princeton Universi
 
 profile:
   align: right
-  image: ShouryaSen_092925_0012.jpg
+  image: ShouryaSen_092925_0010_cut_web.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Department of Politics</p>
