@@ -21,7 +21,7 @@ This line of work focuses on the effects of mobilization in revolutionary confli
 > ###### I study how marginalized people have become integrated into networks centered on the state through revolutionary mobilization. Using a unique genealogical dataset from Laos, I test for the intergenerational, biographical effects of wartime mobilization into a revolutionary political party. In Laos, revolutionary mobilization in the 1960s pulled in individuals from peripheries into political organizations. Results show that descendants of such people were then over twice as likely to work for the party-state than people from similar, unmobilized families. Descendants were over five times as likely to have a cross-ethnic marriage and more than eight times as likely to attain a college diploma, among other social shifts. Mobilization conferred abilities and created opportunities for social advancement, leading to self-sustaining political and economic benefits, which have been transmitted within reconstituted families. The nature of revolutionary mobilization itself is an important, neglected, factor in post-revolutionary social transformation and class formation in revolutionary autocracies.
 >
 
-**Ties that rebind: kinship networks and long-run postwar integration** (in preparation)
+**Ties that rebind: kinship networks and long-run postwar integration** (in preparation, presented at MPSA 2026)
 
 **Abstract:**
 
@@ -43,7 +43,7 @@ This agenda extends the mobilization framework to Thailand, where the Communist 
 
 This line of research progresses at a macro, global level. I argue that institutional change during the third wave of democratization can be more parsimoniously understood by accounting for the impact of economic shocks on authoritarian coalitions. I study authoritarian institutions in the historical context of the 1970s and 1980s, when they steadily emerged across the world in a range of country contexts.
 
-**Economic shocks, sovereign debt, and authoritarian institutions in the third wave** (in preparation)
+**Economic shocks, sovereign debt, and authoritarian institutions in the third wave** (in preparation, presented at APSA 2025)
 
 **Abstract**
 
@@ -56,7 +56,7 @@ This line of research progresses at a macro, global level. I argue that institut
 
 In another developing research agenda on the local politics of authoritarian coalitions, with Napon Jatusripitak, I theorize and apply a novel measure of personalism with national-level coverage across constituencies, leveraging ballot design and the random assignment of candidate and party numbers in Thai elections. Results show that even isolated victories for programmatic parties, by weakening local brokerage networks, can undermine the local foundations of electoral autocracies.
 
-**The democratic externalities of programmatic electoral victory: evidence from Thailand** (with Napon Jatusripitak, in preparation)
+**The democratic externalities of programmatic electoral victory: evidence from Thailand** (with Napon Jatusripitak, in preparation, presenting at APSA 2026)
 >###### Can programmatic political parties reshape personalistic electoral systems? Exploiting random assignment of ballot numbers in Thai elections, we construct a measure of personalistic voting covering all constituencies, allowing us to systematically answer this question through a unique national-level panel study of the determinants of personalistic voting. Against predominant structuralist accounts, we find that programmatic parties weaken personalism in the short-run simply by coming to power locally, even where they are prevented from forming a government by decree. A range of empirical strategies, including a regression discontinuity design, show that constituencies where the liberal Move Forward Party came to power in 2023 saw significantly less personalistic voting in 2026. Evidence from interviews conducted in closely contested constituencies suggests that this was due to the weakening of underlying brokerage networks under programmatic incumbents. Even when victory is partial, programmatic parties can weaken the local, clientelistic, foundations of electoral autocracies.
 >
 
