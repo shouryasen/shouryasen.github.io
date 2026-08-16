@@ -41,6 +41,6 @@ Comparative politics, political economy of development, authoritarianism, politi
 
 <div class="row justify-content-center">
     <div class="col-sm-7">
-        {% include figure.liquid path="assets/img/teaching_laos_notes.jpg" class="img-fluid rounded z-depth-1" caption="Notes from my students after finishing a course teaching English in Laos, through the Fulbright program, 2017." %}
+        {% include figure.liquid path="assets/img/teaching_laos_notes.jpg" class="img-fluid rounded z-depth-1" caption="Notes from my students at the conclusion of an English course in Laos, through the Fulbright program, 2017." %}
     </div>
 </div>
