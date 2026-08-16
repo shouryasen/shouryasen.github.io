@@ -24,5 +24,5 @@ I am a scholar of Southeast Asia and the developing world more broadly, and have
 
 I have also written on colonialism in India and the history and political economy of education in Sub-Saharan Africa, extending my core agenda of studying social change and cooptation to diverse authoritarian contexts in the developing world. 
 
-My work has been recognized with the Harold W. Dodds Honorific Fellowship, a university-wide award for exceptional students in their later years of study at Princeton. I am advised by [Carles Boix](https://www.princeton.edu/~cboix/), [Leonard Wantchekon](https://lwantche.scholar.princeton.edu/), [Rory Truex](https://www.rorytruex.com/), and [Germán Gieczewski](https://germang.scholar.princeton.edu/). 
+My work has been recognized with the Harold W. Dodds Honorific Fellowship, a university-wide award for exceptional students in their later years of study at Princeton. I am advised by [Carles Boix](https://www.princeton.edu/~cboix/), [Leonard Wantchekon](https://lwantche.scholar.princeton.edu/), [Rory Truex](https://www.rorytruex.com/), and [Germán Gieczewski](https://germang.scholar.princeton.edu/). I am on the job market in 2026.
 
