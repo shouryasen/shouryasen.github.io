@@ -38,3 +38,9 @@ Comparative politics, political economy of development, authoritarianism, politi
 <blockquote style="border-left: none; background: none; padding: 0 0 0 2em; margin: 1em 0; font-style: italic; font-size: 0.95rem;">
 “LOVED my preceptor. He was way more helpful than any lecture. I went to his oﬀice hours and he would answer my questions at length. He was really really wonderful, and had a genuine care for all of his students.”
 </blockquote>
+
+<div class="row justify-content-center">
+    <div class="col-sm-7">
+        {% include figure.liquid path="assets/img/teaching_laos_notes.jpg" class="img-fluid rounded z-depth-1" caption="Notes from my students after finishing a course teaching English in Laos, through the Fulbright program, 2017." %}
+    </div>
+</div>
