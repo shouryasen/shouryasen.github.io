@@ -28,7 +28,7 @@ Comparative politics, political economy of development, authoritarianism, politi
 **What students say**
 
 <blockquote style="border-left: none; background: none; padding: 0 0 0 2em; margin: 1em 0; font-style: italic; font-size: 0.95rem;">
-"In my opinion, Shourya was better at explaining the content than the head instructor. He ensured our understanding and encouraged us to engage, even when we didn't know the correct answer."
+“Shourya was fantastic. Very helpful and supportive, made diﬀicult content seem manageable and covered a lot of ground.”
 </blockquote>
 
 <blockquote style="border-left: none; background: none; padding: 0 0 0 2em; margin: 1em 0; font-style: italic; font-size: 0.95rem;">
@@ -36,5 +36,5 @@ Comparative politics, political economy of development, authoritarianism, politi
 </blockquote>
 
 <blockquote style="border-left: none; background: none; padding: 0 0 0 2em; margin: 1em 0; font-style: italic; font-size: 0.95rem;">
-"My preceptor, Shourya Sen, did an excellent job of conducting the class discussion and creating an environment that welcomed participation."
+“LOVED my preceptor. He was way more helpful than any lecture. I went to his oﬀice hours and he would answer my questions at length. He was really really wonderful, and had a genuine care for all of his students.”
 </blockquote>
