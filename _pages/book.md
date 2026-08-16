@@ -14,10 +14,10 @@ nav_order: 4
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/book_akha_village_1920s.jpg" class="img-fluid rounded z-depth-1" caption="Akha village, northern Laos, 1920s. Source: Archives nationales d'outre-mer." %}
+        {% include figure.liquid path="assets/img/book_akha_village_1920s.jpg" class="img-fluid rounded z-depth-1" caption="Ethnic Akha village, northern Laos, 1920s. Source: Archives nationales d'outre-mer." %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/book_khmu_village_present.jpg" class="img-fluid rounded z-depth-1" caption="Khmu village, present-day northern Laos. Author's photo." %}
+        {% include figure.liquid path="assets/img/book_khmu_village_present.jpg" class="img-fluid rounded z-depth-1" caption="Ethnic Khmu village, present-day northern Laos. Author's photo." %}
     </div>
 </div>
 
